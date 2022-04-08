@@ -1,6 +1,6 @@
 # Reading Notes for Code 102
 
-Lucy Gelderloos
+Lucy Gelderloos | [GitHub Profile](https://github.com/lucy-gelderloos)
 
 ---
 
