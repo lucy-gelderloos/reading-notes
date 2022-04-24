@@ -4,14 +4,18 @@ Lucy Gelderloos \| [GitHub Profile](https://github.com/lucy-gelderloos)
 
 ---
 
-# Growth Mindset
+# Introduction
 
-## What is it?
+I've been working in IT in the legal industry for over ten years, and I've realized that my favorite parts of my job are when I get to code. I'm excited to be able to make stuff, not just support it.
 
-A framework for thinking about personal development. A person with a growth mindset does not believe that abilities are static, but instead that they can be developed over time. Rather than giving up when faced with an obstacle, they step back and revisit their approach.
+# Table of Contents
 
-## How to maintain it?
-
-- When feeling stuck on a problem, acknowledge the feeling and step away briefly, rather than bashing against the same wall over and over. Try going back a few steps and trying another approach, or breaking the current problem down into smaller steps to isolate the issue.
-- Acknowledge both successes and failures. Approach failures from a perspective of "what can I do to keep this from happening," rather than getting upset at yourself or others. Don't get so wrapped up in frustration that you ignore what's going right.
-- When feeling un-motivated, step back and consider the larger context of the project. Remind yourself what you're trying to accomplish overall and how the project you're avoiding will contribute to that.
+1. [Growth Mindset](https://lucy-gelderloos.github.io/reading-notes/growth-mindset.md)
+2. [Intro to Markdown](https://lucy-gelderloos.github.io/reading-notes/intro-to-markdown.md)
+3. [Text Editors and the Terminal](https://lucy-gelderloos.github.io/reading-notes/text-editors-terminal.md)
+4. [Revisions](https://lucy-gelderloos.github.io/reading-notes/intro-to-markdown.md)
+5. *coming soon* HTML
+6. *coming soon* CSS
+7. *coming soon* Javascript part 1
+8. *coming soon* Javascript part 2
+9. *coming soon* Operators and Loops
