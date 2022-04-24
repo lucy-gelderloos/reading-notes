@@ -18,3 +18,20 @@ Git can be installed on Windows, Mac, or Linux. You can import existing local pr
 
 Your local installation of Git has three components: the working directory, where all the files live, the index, where files are staged, and the head, which is the most recent version. 
 
+In a working project, files can either be tracked or untracked. Untracked files aren't in the staging area and have not been included in any snapshots (yet). 
+
+Once your file or files are staged, you can commit them, which triggers Git to make a snapshot of the file's current state. Always include a note explaining what you did and why. 
+
+Note that committing the file locally does not change it in the remote repository. To do that, make sure to push any changed files to the remote repository.
+
+This is particularly important when working in a team environment, where multiple people are working with their own local clones of a remote repository.
+
+## Helpful Terminal Commands
+
+- `git status` shows which branch you're on and whether any files in that branch are tracked or modified
+- `git add \[filename\]` or `git add *` will track either the specified file or all files in the repository
+- `git commit` to commit files to your local repository
+    - `-m "\[message\]"` to include a commit message
+    - `-a` commits all changes in the working directory (tracked files only)
+- `git push origin main` pushes files from the local repository ("main") to the remote (named "origin" by default)
+- `git stash` hides recent changes (retrieve them using `git stash apply`)
