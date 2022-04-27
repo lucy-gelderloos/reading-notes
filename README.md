@@ -15,7 +15,7 @@ I've been working in IT in the legal industry for over ten years, and I've reali
 3. [Text Editors and the Terminal](https://lucy-gelderloos.github.io/reading-notes/text-editors-terminal.md)
 4. [Revisions](https://lucy-gelderloos.github.io/reading-notes/intro-to-markdown.md)
 5. [Structuring Pages with HTML](https://lucy-gelderloos.github.io/reading-notes/html-structure.md)
-6. *coming soon* CSS
+6. [Styling Pages with CSS](https://lucy-gelderloos.github.io/reading-notes/css-styling.md)
 7. *coming soon* Javascript part 1
 8. *coming soon* Javascript part 2
 9. *coming soon* Operators and Loops
