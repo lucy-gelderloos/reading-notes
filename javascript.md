@@ -41,11 +41,13 @@ The image will be displayed in the `<img>` element that has been given the ID `s
 **Like this:**
 
 `<img id="sunOrMoon">`
+
 `<script>sunOrMoon()</script>`
 
 **Not like this:**
 
 `<script>sunOrMoon()</script>`
+
 `<img id="sunOrMoon">`
 
 ## Variables
@@ -58,10 +60,41 @@ Above, we used `const` to declare the date and hour variables. `const` is one of
 
 Variables must start with a letter, `_`, or `$`, and can include numbers after the first character. 
 
-You can declare a variable with a value assigned (`const date = new Date();`), or assign a value later. Variables can hold numbers, text (strings), and other kinds of information.
+You can declare a variable with a value assigned (`const date = new Date();`), or assign a value later. Variables can hold numbers, text (strings), functions, and other kinds of information.
+
+Local variables can only be accessed from within their functions, so you can reuse variable names across different functions as long as all those variables are local. Local variables are deleted after the code runs. 
 
 **Note:** JavaScript is case-sensitive, so `date`, `Date`, and `DATE` would all be unique variables.
 
+## Functions
+
+Functions are blocks of code designed for specific tasks. They are defined as follows:
+
+`function newFunction()`
+
+- `newFunction` is the name of the function. Function names follow the same rules as variable names. 
+- The parentheses may (but don't have to) include parameters that modify when and how the function is executed.
+
+The code the function is to execute is inside `{}` following the parentheses. 
+
+### Invoking Functions
+
+Functions can be called, or invoked, automatically, when invoked from other JavaScript code, or when an event occurs, like when a user clicks something. When the function is invoked, the code must include (), or else it will return the function itself, rather than the result of the function. 
+
+## Operators
+
+JavaScript has a number of different operators, depending on what you're trying to do. Examples are below; see [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators) for more.
+
+- *Assignment Operators* assigns a value to its left operand (`x = 5`). They have shorthand options that can include operations (`x += 5` is shorthand for `x = x + 5`).
+- *Comparison Operators* compare both operands and return `true` or `false` depending on the result. `==` returns `true` if the operands are equal; `>` returns `true` if the left operand is greater than the right.
+- *Arithmetic Operators* do math to their operands. `+` adds the operands, `%` divides them and returns the remainder, and `++` increments the operand by one.
+- *Logical Operators* are `&&` (AND), `||` (OR), and `!` (NOT). 
+- *String Operators* operate on strings! `+` is used to concatenate (combine) multiple strings.
+- *Relational Operators* determine whether one operand is `in` the other.
+
+## Control Flow
+
+The "control flow" is the order in which statements in a script are executed. By default, code is executed in the order it's written (for these pages, top to bottom, left to right), but there are many structures that modify that flow, like conditionals and loops. 
 
 ## Helpful Links
 
@@ -69,3 +102,5 @@ You can declare a variable with a value assigned (`const date = new Date();`), o
 - [Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators)
 - [Statements and Declarations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements)
 - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)
+- [Control Flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
+- [Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
