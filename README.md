@@ -24,7 +24,7 @@ I've been working in IT in the legal industry for over ten years, and I've reali
 
 ## Code 201
 
-1. Intro to HTML and JavaScript
+1. [Intro to HTML and JavaScript](https://lucy-gelderloos.github.io/reading-notes/class-01.md)
 2. Intro to Web Development
 3. Lists, the Box Model, and Loops
 4. Links, Layouts, and Functions
