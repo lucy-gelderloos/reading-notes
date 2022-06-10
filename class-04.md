@@ -26,7 +26,7 @@ Key concepts:
 
 ## JS Functions
 
-Functions allow you to store blocks of code that you want to reuse and call them with a short command. There are a number of functions built in to JS, or you can write your own. 
+Functions allow you to store blocks of code that you want to reuse and call them with a short command. There are a number of functions built in to JS, or you can write your own.
 
 Creating a function is known as "declaring" it. Once you've created it, you invoke it by including its name in your code, followed by a set of parentheses.
 
