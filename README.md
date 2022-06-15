@@ -30,8 +30,8 @@ I've been working in IT in the legal industry for over ten years, and I've reali
 4. [Links, Layouts, and Functions](https://lucy-gelderloos.github.io/reading-notes/class-04.md)
 5. [Images, Color, and Text; More Functions](https://lucy-gelderloos.github.io/reading-notes/class-05.md)
 6. [Domain Modeling, Intro to the DOM, and Object Literal Notation](https://lucy-gelderloos.github.io/reading-notes/class-06.md)
-7. HTML Tables and JS Constructor Functions
-8. Layout with CSS
+7. [HTML Tables and JS Constructor Functions](https://lucy-gelderloos.github.io/reading-notes/class-07.md)
+8. [Layout with CSS](https://lucy-gelderloos.github.io/reading-notes/class-08.md)
 9. Forms and Events
 10. Debugging and Error Handling
 11. Audio and Video in HTML; Domain Modeling Revisited
