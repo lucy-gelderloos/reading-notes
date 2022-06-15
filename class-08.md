@@ -12,7 +12,7 @@ Flexbox can display data along the horizontal or vertical axis. The axis it disp
 
 ### 3. How can using certain properties of flexbox negatively impact accessibility?
 
-By default, the appearance of flexbox elements is controlled by the language of the page (so for a page set to English, flexbox items will move left to right and top to bottom; if the page were set to Arabic, the items will move right to left). This default order can be *visually* reversed using the `row-reverse` or `column-reverse` values, but the browser (and screen readers) will focus on the first element first, even if it *appears* last on the page.
+By default, the appearance of flexbox elements is controlled by the language of the page (so for a page set to English, flexbox items will move left to right and top to bottom; if the page were set to Arabic, the items would move right to left). This default order can be *visually* reversed using the `row-reverse` or `column-reverse` values, but the browser (and screen readers) will focus on the first element first, even if it *appears* last on the page.
 
 ## [MDN - Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 
@@ -23,3 +23,7 @@ Float allows you to set where an item will appear on the page, but is very limit
 ### How does this topic connect with your long term goals?
 
 Being able to control exactly where and how content displays is a key requirement of successful design, whether it's for a website or a software GUI. Knowing all the available layout options, even if I don't use them, will help me understand what's possible in this industry.
+
+## Things I want to know more about
+
+I want to practice with flexbox to see how it works in real situations.
