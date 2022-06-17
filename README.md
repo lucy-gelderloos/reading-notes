@@ -32,7 +32,7 @@ I've been working in IT in the legal industry for over ten years, and I've reali
 6. [Domain Modeling, Intro to the DOM, and Object Literal Notation](https://lucy-gelderloos.github.io/reading-notes/class-06.md)
 7. [HTML Tables and JS Constructor Functions](https://lucy-gelderloos.github.io/reading-notes/class-07.md)
 8. [Layout with CSS](https://lucy-gelderloos.github.io/reading-notes/class-08.md)
-9. Forms and Events
+9. [Forms and Events](https://lucy-gelderloos.github.io/reading-notes/class-09.md)
 10. Debugging and Error Handling
 11. Audio and Video in HTML; Domain Modeling Revisited
 12. Canvas and ChartJS
