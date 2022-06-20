@@ -43,3 +43,7 @@ Including responsive images can reduce loading times and bandwidth use by loadin
 ### 3. How is `srcset` more helpful for responsive images than CSS or JavaScript?
 
 When a page loads, it starts downloading images before it interprets the page's CSS & JS; this means that it will load one image by default and replace it with the correct image after the page loads, which won't help reduce bandwidth use *at all*. Because `srcset` is part of the HTML document, the browser sees it as soon as the page loads.
+
+## Things I Want To Know More About
+
+When to use flex vs. grid; how grid works on pages
