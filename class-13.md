@@ -1,6 +1,6 @@
 # Class 13 - Local Storage
 
-## [Local Storage and How To Use It on Websites]
+## [Local Storage and How To Use It on Websites](https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/)
 
 ### 1. Why would a developer use local storage for a web application?
 
