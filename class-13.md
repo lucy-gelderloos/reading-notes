@@ -13,3 +13,7 @@ Sensitive and/or personal information.
 ### 3. Local storage can store what type of data? How would you convert it to that type before storing?
 
 Local storage can only store strings, so if you're trying to store a different kind of data, convert it to a string first.
+
+## Things I'd Like To Know More About
+
+When to use local vs. remote storage; what are the limitations of local storage.
