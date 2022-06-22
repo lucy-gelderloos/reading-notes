@@ -35,3 +35,7 @@ Charts are easier for people to read and understand quickly, and are often more 
 ### 2. How could Chart.js aid your previously created applications visually?
 
 Charts could be useful in the Salmon Cookies sales-tracking app; I wouldn't replace the tables entirely, since it's important to be able to see the details, but charts could make a useful summary.
+
+## Things I Want To Know More About
+
+I'd like to dig more into animated charts and see what those can do!
