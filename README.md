@@ -33,8 +33,8 @@ I've been working in IT in the legal industry for over ten years, and I've reali
 7. [HTML Tables and JS Constructor Functions](https://lucy-gelderloos.github.io/reading-notes/class-07.md)
 8. [Layout with CSS](https://lucy-gelderloos.github.io/reading-notes/class-08.md)
 9. [Forms and Events](https://lucy-gelderloos.github.io/reading-notes/class-09.md)
-10. Debugging and Error Handling
-11. Audio and Video in HTML; Domain Modeling Revisited
-12. Canvas and ChartJS
-13. Introduction to Persistence with Local Storage
+10. [Debugging and Error Handling](https://lucy-gelderloos.github.io/reading-notes/class-10.md)
+11. [Audio and Video in HTML; Domain Modeling Revisited](https://lucy-gelderloos.github.io/reading-notes/class-11.md)
+12. [Canvas and ChartJS](https://lucy-gelderloos.github.io/reading-notes/class-12.md)
+13. [Introduction to Persistence with Local Storage](https://lucy-gelderloos.github.io/reading-notes/class-13.md)
 14. Documentation, Project Selection, and Team Workflow
