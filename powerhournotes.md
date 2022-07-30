@@ -1,4 +1,4 @@
-Who was the speaker(s) and what company or companies were they from? What was the topic of the talk?
+# Who was the speaker(s) and what company or companies were they from? What was the topic of the talk?
 
 Andrew Fijan & Jennifer Larson from Anduril Industries: "How Anduril is Disrupting the Security Space" (they build software to help robots take out other flying robots)
 
