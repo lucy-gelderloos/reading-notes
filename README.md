@@ -40,3 +40,19 @@ I've been working in IT in the legal industry for over ten years, and I've reali
 14. [Documentation, Project Selection, and Team Workflow](https://lucy-gelderloos.github.io/reading-notes/201-class-14a.md)
 
 ### Code 301 - Intermediate Software Development
+
+1. [React and Components](https://lucy-gelderloos.github.io/reading-notes/301-class-01.md)
+2. [State and Props](https://lucy-gelderloos.github.io/reading-notes/301-class-02.md)
+3. [Passing Functions as Props](https://lucy-gelderloos.github.io/reading-notes/301-class-03.md)
+4. [React and Forms](https://lucy-gelderloos.github.io/reading-notes/301-class-04.md)
+5. [Putting It All Together](https://lucy-gelderloos.github.io/reading-notes/301-class-05.md)
+6. [NODE.JS](https://lucy-gelderloos.github.io/reading-notes/301-class-06.md)
+7. [REST; Teams](https://lucy-gelderloos.github.io/reading-notes/301-class-07.md)
+8. [APIs](https://lucy-gelderloos.github.io/reading-notes/301-class-08.md)
+9. [Functional Programming](https://lucy-gelderloos.github.io/reading-notes/301-class-09.md)
+10. [In-Memory Storage](https://lucy-gelderloos.github.io/reading-notes/301-class-10.md)
+11. [Mongo and Mongoose](https://lucy-gelderloos.github.io/reading-notes/301-class-11.md)
+12. [CRUD](https://lucy-gelderloos.github.io/reading-notes/301-class-12.md)
+13. [More CRUD](https://lucy-gelderloos.github.io/reading-notes/301-class-13.md)
+14. [Diversity & Inclusion in the Tech Industry](https://lucy-gelderloos.github.io/reading-notes/301-class-14.md)
+15. [Authentication](https://lucy-gelderloos.github.io/reading-notes/301-class-15.md)
