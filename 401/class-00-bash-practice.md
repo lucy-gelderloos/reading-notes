@@ -39,7 +39,7 @@
 - Create directories using `mkdir`
   - Use `-p` to create any needed parent directories
   - Use `-v` to make the terminal print what it's doing as it makes the directories
--Use `rmdir` to remove a directory. This also accepts `-p` and `-v`. Note that only empty directories can be deleted this way (see `rm`, below).
+- Use `rmdir` to remove a directory. This also accepts `-p` and `-v`. Note that only empty directories can be deleted this way (see `rm`, below).
 - The `touch` command modifies the access/edit timestamp on an existing file, or creates a new blank file if the target file doesn't exist
 - The `cp` command copies a file or directory
   - The origin and destination are paths (either relative or absolute)
