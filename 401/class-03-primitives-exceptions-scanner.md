@@ -32,3 +32,7 @@ Exception handlers have three components: try, catch, and finally.
   - A try-with-resources statement declares one or more resources, and closes them after the block has run, making it a good choice to reduce cleanup.
 - **Catch:** One or more catch blocks can be associated with a try block; no other code can be between the associated blocks. The runtime system will look for the catch block whose ExceptionType matches the current exception. The catch block can have different results, including terminating the program, promting for different input, or send the error to a higher error handler.
 - **Finally:** The finally block always runs, which makes it a good place for cleanup code and lets it handle unanticipated exceptions.
+
+## Things I'd like to know more about
+
+Are there standard kinds of errors that should always be anticipated.
