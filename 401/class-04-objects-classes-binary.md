@@ -2,6 +2,10 @@
 
 ## [Java OO Tutorial](https://docs.oracle.com/javase/tutorial/java/concepts/)
 
+Software objects, like real-world objects, have state and behavior. Encapsulation means hiding variables and requiring that any other object interact with this object through methods. For example, an internal setProperty method could limit the available values for that property (between 0 and 59 minutes, for example), so any other method trying to add an invalid property (90 minutes, -4 minutes) receives an error.
+
+Classes are bluprints for objects. A class doesn't have a main method; it is used by other classes to create objects for their use.
+
 ## [Java Classes](https://docs.oracle.com/javase/tutorial/java/javaOO/classes.html)
 
 Classes have:
