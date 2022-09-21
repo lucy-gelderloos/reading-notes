@@ -1,4 +1,4 @@
-# Class 28 - RecyclerView
+# [Class 28 - RecyclerView](https://developer.android.com/develop/ui/views/layout/recyclerview)
 
 RecyclerView is the name of a class and a library, which allow you to define repeating parts of your interface and have them dynamically generated as they appear on the screen.
 
