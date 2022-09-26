@@ -13,3 +13,5 @@ Amplify is a fullstack app toolkit that allows you to directly integrate with AW
 US West (Oregon)
 
 ## Things I'd like to know more about
+
+What kinds of tools AWS Amplify offers.
